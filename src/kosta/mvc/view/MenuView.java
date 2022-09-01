@@ -1,9 +1,10 @@
 package kosta.mvc.view;
 
-public class StardView {
+public class MenuView {
 
 	public static void main(String[] args) {
 		new MenuView();
-}
-}
+		
+	}
 
+}
